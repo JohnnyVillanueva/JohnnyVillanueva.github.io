@@ -1,1 +1,1 @@
-alert ("gracias por ver mi proyecto")
+//alert ("gracias por ver mi proyecto");
